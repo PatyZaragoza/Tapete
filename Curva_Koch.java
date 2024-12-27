@@ -3,6 +3,7 @@ import java.awt.*;
 
 /**
  * @author Patricia Zaragoza Palma
+ * Ingeniería en sistemas computacionales 
  */
 public class Curva_Koch extends JPanel {
     double sin60 = Math.sin(Math.PI / 3);  // ángulo de 60 grados
